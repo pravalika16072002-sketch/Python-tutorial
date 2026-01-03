@@ -1,0 +1,5 @@
+jungkook.txt
+schedule.tmp
+*.log
+node_modules/
+!importtant.log
