@@ -5,4 +5,4 @@ This is basics daily routine of humans:
 -Do something
 -Sleep
 
-Thank yoy!
+Thank you!
